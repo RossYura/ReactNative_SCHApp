@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sehtestzeichen/landoltring-position-3</title>
+    <g id="sehtestzeichen/landoltring-position-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="125" cy="125" r="125"></circle>
+        <path d="M124.954205,250 C55.9444968,250 1.13686838e-13,194.035 1.13686838e-13,125 C1.13686838e-13,55.965 55.9444968,5.68434189e-14 124.954205,5.68434189e-14 C185.432041,5.68434189e-14 235.828571,42.945 247.409326,100 L195.653295,100 C183.481848,65.5613329 148.279001,44.9031979 112.29052,51.080108 C76.3020386,57.2570182 49.9959987,88.4722774 49.9959987,125 C49.9959987,161.527723 76.3020386,192.742982 112.29052,198.919892 C148.279001,205.096802 183.481848,184.438667 195.653295,150 L247.409326,150 C235.828571,207.055 185.432041,250 124.954205,250 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

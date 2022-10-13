@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sehtestzeichen/kreis</title>
+    <g id="sehtestzeichen/kreis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M126.25,45 C171.123136,45 207.5,81.3768641 207.5,126.25 C207.5,171.123136 171.123136,207.5 126.25,207.5 C81.3768641,207.5 45,171.123136 45,126.25 C45,81.3768641 81.3768641,45 126.25,45 Z M126.25,70 C95.1839828,70 70,95.1839828 70,126.25 C70,157.316017 95.1839828,182.5 126.25,182.5 C157.316017,182.5 182.5,157.316017 182.5,126.25 C182.5,95.1839828 157.316017,70 126.25,70 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

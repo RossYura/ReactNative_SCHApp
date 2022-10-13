@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "SCHApp",
+    "slug": "SCHApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/meta/icon.png",
+    "splash": {
+      "image": "./src/assets/images/meta/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      "@react-native-voice/voice"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "locales": {
+      "de": "./config/locales/de.json"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "",
+      "infoPlist": {
+        "NSSpeechRecognitionUsageDescription": "Wir benötigen Zugriff auf die Spracherkennungsfunktion, damit du die Seh-Checks mittels Sprachbefehlen nutzen kannst.",
+        "NSMicrophoneUsageDescription": "Wir benötigen Zugriff auf dein Mikrofon, damit du die Spracherkennung und damit die Seh-Checks mittels Sprachbefehlen nutzen kannst.",
+        "NSPhotoLibraryUsageDescription": "Wir benötigen den Zugriff auf deine Fotomediathek und Kamera aus technischen Gründen. Es werden keine Fotos aufgenommen, gespeichert oder übertragen.",
+        "CFBundleLocalizations" : ["de"]
+      },
+      "buildNumber": "1.0.6",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/meta/adaptive-icon-foreground.png",
+        "backgroundImage": "./src/assets/images/meta/adaptive-icon-background.png"
+      },
+      "package": "",
+      "versionCode": 440010006
+    },
+    "extra": {
+      
+    },
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "@bugsnag/expo/hooks/post-publish.js",
+          "config": {}
+        }
+      ]
+    }
+  }
+}
